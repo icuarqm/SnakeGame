@@ -20,13 +20,10 @@ A simple Snake game built using Java and Swing for the graphical user interface.
 1. Clone this repository to your local machine:
    ```
    git clone https://github.com/icuarqm/SnakeGame.git
-2. Navigate to the project directory and compile the Java files:
-   ```
-   javac -d out src/main/*.java
-3. Run the game using the following command:
+2. Navigate to the project directory and run the game using the following command:
    ```
    java -jar SnakeGame.jar
-4. Alternatively, you can use the SnakeGame.exe file for Windows users. Simply double-click the .exe file to start the game.
+3. Alternatively, you can use the SnakeGame.exe file for Windows users. Simply double-click the .exe file to start the game.
 
 ## License
 
