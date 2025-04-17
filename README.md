@@ -1,4 +1,4 @@
-# Snake Game in Java ![Snake Icon](assets/snake-game.png)
+# <img src="assets/snake-game.png" alt="Snake Game Icon" width="32" height="32" style="vertical-align: middle;"> Snake Game in Java
 
 A simple Snake game built using Java and Swing for the graphical user interface. The game allows you to control the snake using arrow keys, eat food to grow, and avoid obstacles. Press **R** to restart the game after it ends.
 
@@ -18,13 +18,13 @@ A simple Snake game built using Java and Swing for the graphical user interface.
 ## How to Run
 
 1. Clone this repository to your local machine:
-   ```bash
+   ```
    git clone https://github.com/icuarqm/SnakeGame.git
 2. Navigate to the project directory and compile the Java files:
-   ```bash
+   ```
    javac -d out src/main/*.java
 3. Run the game using the following command:
-   ```bash
+   ```
    java -jar SnakeGame.jar
 4. Alternatively, you can use the SnakeGame.exe file for Windows users. Simply double-click the .exe file to start the game.
 
