@@ -2,6 +2,8 @@
 
 A simple Snake game built using Java and Swing for the graphical user interface. The game allows you to control the snake using arrow keys, eat food to grow, and avoid obstacles. Press **R** to restart the game after it ends.
 
+<img src="assets/preview.png" alt="Snake Game Preview" width="498" height="530" style="horizontal-align: middle;">
+
 ## Features
 - Control the snake with the arrow keys (Up, Down, Left, Right).
 - Eat food to grow the snake and increase your score.
