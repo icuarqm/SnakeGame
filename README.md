@@ -4,13 +4,18 @@ A simple Snake game built using Java and Swing for the graphical user interface.
 
 <img src="assets/preview.png" alt="Snake Game Preview" width="498" height="530" style="horizontal-align: middle;">
 
-## Features
+## 🛠 Requirements
+
+⚠️ **IMPORTANT:** This game was compiled using **Java 24**.  
+To run the `.jar` file, make sure you have **Java 24 or higher** installed on your system.
+
+## 🐍 Features
 - Control the snake with the arrow keys (Up, Down, Left, Right).
 - Eat food to grow the snake and increase your score.
 - Avoid walls and the snake's body to prevent the game from ending.
 - Press **R** to restart the game after it ends.
 
-## How to Play
+## 🎯 How to Play
 1. Start the game.
 2. Use the arrow keys to move the snake around the screen.
 3. Eat food (represented by small squares) to grow the snake and increase your score.
@@ -27,11 +32,11 @@ A simple Snake game built using Java and Swing for the graphical user interface.
    java -jar SnakeGame.jar
 3. Alternatively, you can use the SnakeGame.exe file for Windows users. Simply double-click the .exe file to start the game.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgements
+## 🙌 Acknowledgements
 
 Inspired by the classic Snake Game.
 
