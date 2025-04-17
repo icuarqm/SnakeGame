@@ -1,4 +1,4 @@
-# Snake Game in Java ![Snake Icon](assets/snake-icon.png)
+# Snake Game in Java ![Snake Icon](assets/snake-game.png)
 
 A simple Snake game built using Java and Swing for the graphical user interface. The game allows you to control the snake using arrow keys, eat food to grow, and avoid obstacles. Press **R** to restart the game after it ends.
 
