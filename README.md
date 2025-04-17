@@ -33,6 +33,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements
 
-Inspired by classic Snake games.
+Inspired by the classic Snake Game.
 
 Thanks to the Java Swing documentation for helping with GUI development.
