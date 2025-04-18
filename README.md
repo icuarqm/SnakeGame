@@ -34,7 +34,7 @@ To run the `.jar` file, make sure you have **Java 24 or higher** installed on yo
    ```
    java -jar SnakeGame.jar
    ```
-   • Compile and Run the Source Code Yourself:
+   • Compile and Run the Source Code Yourself (requires JDK 14 or higher due to use of some codes):
    ```
    javac -d out src/main/*.java
    java -cp out main.Game
