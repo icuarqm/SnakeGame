@@ -27,6 +27,7 @@ To run the `.jar` file, make sure you have **Java 24 or higher** installed on yo
 1. Clone the repository and navigate to the project directory:
    ```
    git clone https://github.com/icuarqm/SnakeGame.git
+   cd SnakeGame
 2. Run the Game:
    
    • Using the precompiled .jar File (JRE 24 Required):
