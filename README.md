@@ -24,19 +24,20 @@ To run the `.jar` file, make sure you have **Java 24 or higher** installed on yo
 
 ## How to Run
 
-1. Clone this repository to your local machine:
+1. Clone the repository and navigate to the project directory:
    ```
    git clone https://github.com/icuarqm/SnakeGame.git
-2. Navigate to the project directory and run the game using the following command:
+2. Run the Game:
+   
+   • Using the precompiled .jar File (JRE 24 Required):
    ```
    java -jar SnakeGame.jar
-3. Alternatively, you can use the SnakeGame.exe file for Windows users. Simply double-click the .exe file to start the game.
-
-4. Or, if you prefer to compile the game yourself:
    ```
-   git clone https://github.com/icuarqm/SnakeGame.git
-   cd SnakeGame
+   • Compile and Run the Source Code Yourself:
+   ```
+   javac -d out src/main/*.java
    java -cp out main.Game
+4. For Windows Users: Simply double-click the SnakeGame.exe file to start the game (JRE 24 Required).
 
 ## 📄 License
 
