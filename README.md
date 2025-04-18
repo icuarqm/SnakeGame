@@ -32,6 +32,12 @@ To run the `.jar` file, make sure you have **Java 24 or higher** installed on yo
    java -jar SnakeGame.jar
 3. Alternatively, you can use the SnakeGame.exe file for Windows users. Simply double-click the .exe file to start the game.
 
+4. Or, if you prefer to compile the game yourself:
+   ```
+   git clone https://github.com/icuarqm/SnakeGame.git
+   cd SnakeGame
+   java -cp out main.Game
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
